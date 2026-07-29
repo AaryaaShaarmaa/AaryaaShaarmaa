@@ -30,13 +30,9 @@
 
 - 👨‍💻 All of my projects are available at **https://github.com/AaryaaShaarmaa**
 
-- 📝 I regularly write articles on **coming soon...**
-
 - 💬 Ask me about **Python, Pandas, NumPy, Matplotlib, Seaborn, C++, and Digital Logic**
 
 - 📫 How to reach me **aarya34pog@gmail.com**
-
-- 📄 Know about my experiences **coming soon...**
 
 <h3 align="left">Connect with me:</h3>
 
